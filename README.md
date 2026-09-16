@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Tomás Pitavino </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Tomás+Pitavino;++;Student+of+Information+Systems+Engineering;Self-taught+Front-End+Developer;Active+Learner/Researcher;Love+to+learn+new+stuffs...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Tomás+Pitavino;++;Student+of+Information+Systems+Engineering;QA+Analyst;Self-taught+Front-End+Developer;Active+Learner/Researcher;Love+to+learn+new+stuffs...<3"></a>
 </p>
 
 <br>
@@ -47,6 +47,8 @@
   ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+  
 
 - **Softwares and Tools**:
 
